@@ -1,7 +1,7 @@
 // Program for KBC game  
 #include <iostream>
 #include <conio.h>
-<meta name="google-site-verification" content="_ZpCLss0GnX5a-s6H13uHDZ3lV4EboUuZkseVQ2kIF4" />
+
 using namespace std;
 
 class kbc
