@@ -109,7 +109,7 @@ void kbc::begin()
              << "\t\t\t\t"
              << "<4>  HARIVANSH RAI BACHCHAN" << endl
              << endl;
-        cout << "\t######  IF YOU WANT TO USE LIFELINE THEN PRESS l(lowercase L) \tOR\t  TO GIVE YOUR ANSWER PRESS ANY NUMBER  ######" << endl;
+        cout << "\t######  IF YOU WANT TO USE LIFELINE THEN PRESS 'l'||'L' \tOR\t  TO GIVE YOUR ANSWER PRESS ANY NUMBER  ######" << endl;
     tick1:
         cin >> l;
         if (l == 'l' || l == 'L')
